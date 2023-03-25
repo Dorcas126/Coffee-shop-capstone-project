@@ -412,7 +412,7 @@ section {
     display: block;
   }
 
-  .header .navbar .active {
+  .header .navbar.active {
     box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
     right: 0;
   }
